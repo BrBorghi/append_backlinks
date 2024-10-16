@@ -10,7 +10,7 @@ NB:
 
 
 ## Plug-in installation
-- download the zip file [com.akeirou.appendbacklinks.thearchiveplugin.zip](https://github.com/BrBorghi/append_backlinks/releases/download/v1.0.0/com.akeirou.appendbacklinks.thearchiveplugin.zip))
+- download the zip file [com.akeirou.appendbacklinks.thearchiveplugin.zip](https://github.com/BrBorghi/append_backlinks/releases/download/v1.0.0/com.akeirou.appendbacklinks.thearchiveplugin.zip)
 - unzip it in a temporary folder
 - double-click on the bundle `com.akeirou.newnotewithtimestamp.thearchiveplugin` to install it
 - alternatively to install it, you can copy the bundle `com.akeirou.appendbacklinks.thearchiveplugin` in the folder `~/Library/Application\ Support/TheArchive/Plugins/Installed`
