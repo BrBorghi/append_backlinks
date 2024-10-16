@@ -1,0 +1,31 @@
+{
+  "appVersion" : "1.8.0",
+  "authors" : [
+    {
+      "name" : "Bruno Borghi"
+    }
+  ],
+  "dependencies" : [
+
+  ],
+  "description" : "Appends a Backlinks section to the current note with links to all the notes that reference the current note.\n- The original content of the note is not modified. There is only an append.\n- The backlinks section format is hard-coded.",
+  "identifier" : "com.akeirou.appendbacklinks",
+  "input" : {
+    "notes" : [
+      "selected",
+      "all"
+    ],
+    "text" : [
+      "all"
+    ]
+  },
+  "output" : {
+    "changeFile" : {
+      "programmaticFilename" : true
+    },
+    "onCompletion" : "showFile"
+  },
+  "releaseDate" : "2024-10-16",
+  "title" : "Append backlinks",
+  "version" : "1.0.0"
+}
