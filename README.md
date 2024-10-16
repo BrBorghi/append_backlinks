@@ -14,8 +14,3 @@ NB:
 - unzip it in a temporary folder
 - double-click on the bundle `com.akeirou.newnotewithtimestamp.thearchiveplugin` to install it
 - alternatively to install it, you can copy the bundle `com.akeirou.appendbacklinks.thearchiveplugin` in the folder `~/Library/Application\ Support/TheArchive/Plugins/Installed`
-- copy the template `000000000000-StdTemplate.md`in your note folder
-- enable the plug-in in "The Archive" application:
-  - in the toolbar menu, select _Plug-Ins > Manage Plug-Ins..._
-  - select the plug-in _Append backlinks_ and click the _Enable_ button
- 
